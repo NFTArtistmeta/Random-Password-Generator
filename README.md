@@ -36,5 +36,4 @@ Both these parameters are selected by the user.
   <br><br>
 </p>
 
-## Author
-[Tanvi Bugdani](https://github.com/tanvi355)
+
